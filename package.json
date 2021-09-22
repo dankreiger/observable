@@ -1,0 +1,14 @@
+{
+  "name": "observables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node src"
+  },
+  "author": "Dan Kreiger",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
